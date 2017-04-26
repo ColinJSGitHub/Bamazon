@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ColinJSGitHub/Bamazon/issues"
   },
-  "homepage": "https://github.com/ColinJSGitHub/Bamazon#readme"
+  "homepage": "https://github.com/ColinJSGitHub/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
 }
